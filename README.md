@@ -7,7 +7,7 @@
 </div>
 <div>
 
-#### :seedling: Language I've used before
+#### :seedling: Languages and Tools I've used before
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>
@@ -16,6 +16,11 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat&logo=Spyder IDE&logoColor=white"/>
 
 </div>
 
