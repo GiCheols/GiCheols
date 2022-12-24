@@ -1,8 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=GiCheol%20Nam&fontSize=90&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=GiCheol%20Nam&fontSize=90&fontColor=FFFFFF&animation=fadeIn"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiCheols&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiCheols&exclude_repo=Unity-2D-Roguelike&layout=compact)](https://github.com/GiCheols/github-readme-stats)
 <br>
+<div align="center">
+
+#### :open_hands: Introduction
+
+</div>
 <div align="center">
 
 #### :seedling: Language I've used before
