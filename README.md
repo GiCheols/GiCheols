@@ -5,6 +5,7 @@
 안녕 난 기철
 
 </div>
+
 <div>
 
 #### :seedling: Languages and Tools I've used before
@@ -21,7 +22,6 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat&logo=Spyder IDE&logoColor=white"/>
-
 </div>
 
 <div>
