@@ -11,7 +11,7 @@
 #### :seedling: Languages and Tools I've used before
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=C Sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/>
