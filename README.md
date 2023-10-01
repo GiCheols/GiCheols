@@ -2,7 +2,7 @@
 <div>
 
 #### :open_hands: Introduction
-안녕 난 기철
+컴퓨터공학 전공생으로서 재밌는 것만 하고 살고 싶네요 ㅎㅎ. . .
 
 </div>
 
